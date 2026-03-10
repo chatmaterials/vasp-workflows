@@ -1,0 +1,8 @@
+SYSTEM = Difficult relax
+ENCUT = 520
+EDIFF = 1E-6
+ISPIN = 1
+IBRION = 2
+NSW = 60
+ISIF = 2
+NELM = 40

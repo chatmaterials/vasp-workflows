@@ -1,0 +1,5 @@
+interface:
+  display_name: "VASP Workflows"
+  short_description: "Set up, inspect, and restart VASP workflows"
+  brand_color: "#1E3A8A"
+  default_prompt: "Use $vasp-workflows to prepare, inspect, or debug a VASP workflow."
