@@ -1,5 +1,7 @@
 # vasp-workflows
 
+[![CI](https://img.shields.io/github/actions/workflow/status/chatmaterials/vasp-workflows/ci.yml?branch=main&label=CI)](https://github.com/chatmaterials/vasp-workflows/actions/workflows/ci.yml) [![Release](https://img.shields.io/github/v/release/chatmaterials/vasp-workflows?display_name=tag)](https://github.com/chatmaterials/vasp-workflows/releases)
+
 Standalone skill for practical VASP workflow setup, review, convergence checks, and restart handling.
 
 ## What This Skill Covers
